@@ -1,0 +1,12 @@
+## IDF Component Manager Manifest File
+description: Lua is a powerful, efficient, lightweight, embeddable scripting language (ESP-IDF component)
+license: Lua license
+url: https://www.lua.org/
+repository: https://github.com/georgik/esp-idf-component-lua
+version: 5.5.0
+
+dependencies:
+  ## Required IDF version
+  idf:
+    version: ">=5.0.0"
+
