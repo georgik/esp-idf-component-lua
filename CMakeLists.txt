@@ -34,11 +34,8 @@ idf_component_register(
         "lua/lutf8lib.c"
         "lua/lzio.c"
     INCLUDE_DIRS
+        "include"
         "lua"
 )
 
-#set(FMT_INSTALL OFF)
-#add_subdirectory(lua)
-
-#target_link_libraries(${COMPONENT_LIB} INTERFACE lua::lua)
 

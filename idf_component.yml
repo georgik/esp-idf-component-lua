@@ -3,7 +3,11 @@ description: Lua is a powerful, efficient, lightweight, embeddable scripting lan
 license: Lua license
 url: https://www.lua.org/
 repository: https://github.com/georgik/esp-idf-component-lua
-version: 5.5.0
+version: 5.5.0~1
+
+files:
+  exclude:
+    - "lua/luaconf.h"
 
 dependencies:
   ## Required IDF version
