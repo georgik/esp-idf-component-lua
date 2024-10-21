@@ -4,7 +4,7 @@ ESP-IDF componet which wrap Lua from upstream repository - https://www.lua.org/
 
 This is version was built from Lua master branch which is under development!
 
-Consider using 5.3 or 5.3 for stable versionns.
+Consider using 5.3 or 5.3 for stable versions.
 
 This is not Lua REPL. This component is suitable for embedding Lua code inside another ESP-IDF application. 
 If you're seeking for interactive REPL, please check out the project: https://github.com/whitecatboard/Lua-RTOS-ESP32
