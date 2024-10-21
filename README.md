@@ -2,6 +2,8 @@
 
 ESP-IDF componet which wrap Lua from upstream repository - https://www.lua.org/
 
+Version of Lua submodule: 5.3.6
+
 Check our version tag for specific version of Lua.
 
 This is not Lua REPL. This component is suitable for embedding Lua code inside another ESP-IDF application. 
