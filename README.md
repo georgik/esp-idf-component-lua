@@ -11,7 +11,7 @@ If you're seeking for interactive REPL, please check out the project: https://gi
 
 ## Configuration option
 
-- `LUA\_MAXSTACK` - default value: 1000000 - Limits the size of the Lua stack.
+- `LUA_MAXSTACK` - default value: 1000000 - Limits the size of the Lua stack.
 
 Modify values:
 
