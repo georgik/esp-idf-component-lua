@@ -760,7 +760,7 @@
 ** (It must fit into max(int)/2.)
 */
 #if 1000000 < (INT_MAX / 2)
-#define LUAI_MAXSTACK		1000000
+#define LUAI_MAXSTACK		CONFIG_LUA_MAXSTACK
 #else
 #define LUAI_MAXSTACK		(INT_MAX / 2u)
 #endif
