@@ -1,5 +1,9 @@
 # Lua - ESP-IDF Component
 
+## Important
+
+The repo was moved to: https://github.com/espressif/idf-extra-components/tree/master/lua
+
 ESP-IDF componet which wrap Lua from upstream repository - https://www.lua.org/
 
 This is version was built from Lua master branch which is under development!
